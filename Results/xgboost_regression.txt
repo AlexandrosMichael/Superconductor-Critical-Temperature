@@ -1,0 +1,4 @@
+XGBoost cross-val time elapsed:  1894.2874693870544
+{'k_best__k': 80, 'reg__learning_rate': 0.1, 'reg__max_depth': 16, 'reg__min_child_weight': 0.5, 'reg__subsample': 0.5}
+Best cross-val R squared score: 0.92
+Test R squared score: 0.92

@@ -1,0 +1,4 @@
+Linear model cross-val time elapsed:  7.094045162200928
+{'k_best__k': 80, 'reg__alpha': 0.1, 'reg__fit_intercept': True}
+Best cross-val R squared score: 0.73
+Test R squared score: 0.74

@@ -1,0 +1,4 @@
+Linear model cross-val time elapsed:  5544.066424369812
+{'k_best__k': 80, 'reg__bootstrap': False, 'reg__max_features': 'sqrt', 'reg__min_samples_leaf': 2, 'reg__min_samples_split': 2, 'reg__n_estimators': 200}
+Best cross-val R squared score: 0.93
+Test R squared score: 0.93
